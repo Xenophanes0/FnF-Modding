@@ -1,0 +1,125 @@
+[
+     {
+         "songs" : [
+             {
+                 "week" : 0
+                ,"character" : "gf"
+                ,"name" : "Tutorial"
+            }
+            ,{
+                 "week" : 1
+                ,"character" : "dad"
+                ,"name" : "Bopeebo"
+            }
+            ,{
+                 "week" : 1
+                ,"character" : "dad"
+                ,"name" : "Fresh"
+            }
+            ,{
+                 "week" : 1
+                ,"character" : "dad"
+                ,"name" : "Dadbattle"
+            }
+            ,{
+                 "week" : 2
+                ,"character" : "spooky"
+                ,"name" : "Spookeez"
+            }
+            ,{
+                 "week" : 2
+                ,"character" : "spooky"
+                ,"name" : "South"
+            }
+            ,{
+                 "week" : 2
+                ,"character" : "monster"
+                ,"name" : "Monster"
+            }
+            ,{
+                 "week" : 3
+                ,"character" : "pico"
+                ,"name" : "Pico"
+            }
+            ,{
+                 "week" : 3
+                ,"character" : "pico"
+                ,"name" : "Philly"
+            }
+            ,{
+                 "week" : 3
+                ,"character" : "pico"
+                ,"name" : "Blammed"
+            }
+            ,{
+                 "week" : 4
+                ,"character" : "mom"
+                ,"name" : "Satin-Panties"
+            }
+            ,{
+                 "week" : 4
+                ,"character" : "mom"
+                ,"name" : "High"
+            }
+            ,{
+                 "week" : 4
+                ,"character" : "mom"
+                ,"name" : "Milf"
+            }
+            ,{
+                 "week" : 5
+                ,"character" : "parents-christmas"
+                ,"name" : "Cocoa"
+            }
+            ,{
+                 "week" : 5
+                ,"character" : "parents-christmas"
+                ,"name" : "Eggnog"
+            }
+            ,{
+                 "week" : 5
+                ,"character" : "monster-christmas"
+                ,"name" : "Winter-Horrorland"
+            }
+            ,{
+                 "week" : 6
+                ,"character" : "senpai"
+                ,"name" : "Senpai"
+            }
+            ,{
+                 "week" : 6
+                ,"character" : "senpai-angry"
+                ,"name" : "Roses"
+            }
+            ,{
+                 "week" : 6
+                ,"character" : "spirit"
+                ,"name" : "Thorns"
+            }
+            ,{
+                 "week" : 7
+                ,"character" : "tankman"
+                ,"name" : "Ugh"
+            }
+            ,{
+                 "week" : 7
+                ,"character" : "tankman"
+                ,"name" : "Guns"
+            }
+            ,{
+                 "week" : 7
+                ,"character" : "tankman"
+                ,"name" : "Stress"
+            }
+            ,{
+                 "week" : 6
+                ,"flags" : [
+                     "debug"
+                ]
+                ,"character" : "face"
+                ,"name" : "Test"
+            }
+        ]
+        ,"name" : "Base Game"
+    }
+]
