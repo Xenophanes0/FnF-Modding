@@ -119,6 +119,11 @@
                 ,"character" : "face"
                 ,"name" : "Test"
             }
+            ,{
+                "week" : 6
+                , "character" : "dad"
+                , "name" : "Fatality-Invasion"
+            }
         ]
         ,"name" : "Base Game"
     }
