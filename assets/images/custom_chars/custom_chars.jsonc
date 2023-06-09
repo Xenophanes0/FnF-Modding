@@ -176,18 +176,6 @@
         ]
         ,"like" : "bf-car"
     }
-    ,"template" : {
-         "icons" : [
-             0
-            ,1
-            ,24
-        ]
-        ,"colors" : [
-             "#FFFFFF"
-            ,"#FFFFFF"
-        ]
-        ,"like" : "fatal-error"
-    }
     ,"monster" : {
          "colors" : [
              "#F2D046"
@@ -321,5 +309,21 @@
             ,2
         ]
         ,"like" : "monster-christmas"
+    }
+    ,"fatal-error" : {
+        "colors" : [
+            "#EE19D9"
+        ]
+        ,"icons" : [
+            0
+            ,1
+            ,0
+        ]
+        ,"like" : "bf"
+    }
+    ,"hank" : {
+        "like" : "bf",
+        "icons" : [0,1,1],
+        "colors" : ["#EE19D9"]
     }
 }

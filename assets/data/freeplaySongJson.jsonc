@@ -120,9 +120,9 @@
                 ,"name" : "Test"
             }
             ,{
-                "week" : 6
-                , "character" : "bf-pixel"
-                , "name" : "Fatality-Invasion"
+                 "character" : "fatal-error"
+                ,"name" : "Fatality Invasion"
+                ,"week" : 0
             }
         ]
         ,"name" : "Base Game"
